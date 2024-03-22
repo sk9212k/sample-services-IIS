@@ -1,0 +1,1 @@
+This repo contains an ansible playbook to build and configure an windows IIS server on azure.
